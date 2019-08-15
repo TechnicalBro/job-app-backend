@@ -68,26 +68,13 @@ Running tests for the authentication server
 python -m unittest tests/test_authentication_server.py
 ```
 
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
 ## Deployment
 
-Add additional notes about how to deploy this on a live system
+Todo: Add additional notes about how to deploy this on a live system
 
-## Built With
-Expo CLI, React-Native, and more.
+## Built With (Front & Back)
+Expo CLI, React-Native, Flask, Python, SqlAlchemy, Postgres / Sqlite & coffee.
 
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
 ## Authors
 
-* **Brandon Curtis** - *Initial Prototype* - [TechnicalBro](https://github.com/TechnicalBro)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* **Brandon Curtis** - [TechnicalBro](https://github.com/TechnicalBro)
