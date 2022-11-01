@@ -48,7 +48,3 @@ python -m unittest tests/test_authentication_server.py
 
 ## Built With (Front & Back)
 Expo CLI, React-Native, Flask, Python, SqlAlchemy, Postgres / Sqlite & coffee.
-
-## Authors
-
-* **Brandon Curtis** - [TechnicalBro](https://github.com/TechnicalBro)
